@@ -107,4 +107,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Emoji
 used folowing cheatsheets
 1. [Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
-2. 
